@@ -34,3 +34,5 @@ In conclusion, **Task 4** enabled me to practically implement a full machine lea
 OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/7d34100e-9a15-4687-bead-5a37f0780596)
+
+![Image](https://github.com/user-attachments/assets/7d34100e-9a15-4687-bead-5a37f0780596)
