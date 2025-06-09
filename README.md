@@ -33,6 +33,6 @@ In conclusion, **Task 4** enabled me to practically implement a full machine lea
 
 OUTPUT:
 
-![Image](https://github.com/user-attachments/assets/7cb0bb2a-5b98-4a9d-9492-fc2ef71651bd)
+![Image](https://github.com/user-attachments/assets/1229da23-cd18-4da0-a84b-00762fc560a4)
 
 ![Image](https://github.com/user-attachments/assets/7d34100e-9a15-4687-bead-5a37f0780596)
